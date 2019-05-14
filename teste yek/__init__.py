@@ -1,0 +1,2 @@
+hello="hi"
+print(hello)
