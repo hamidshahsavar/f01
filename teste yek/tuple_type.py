@@ -1,0 +1,5 @@
+my_tuple = (32, 4.4, "intel")
+print(my_tuple)
+print(my_tuple[2])
+print(type(my_tuple[2]))
+print(type(my_tuple[0]))
