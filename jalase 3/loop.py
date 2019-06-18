@@ -1,4 +1,4 @@
-number = 111
+number = 5
 
 i = 2
 Is_perim = True
